@@ -179,7 +179,7 @@ int main() {
 
 ## Como compilar
 
-Se você não sabe compilar código C++, provavelmente não deveria estar mexendo com memória de processos não gordinho. Mas vou explicar mesmo assim pra essa negrin aqui.
+Se você não sabe compilar código C++, provavelmente não deveria estar mexendo com memória de processos não gordinho. Mas vou explicar mesmo assim.
 
 ### Visual Studio
 
